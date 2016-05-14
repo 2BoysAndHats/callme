@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="org.twoboysandhats.callme" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Emergency Dialer</name>
+    <name>EmergencyDialer</name>
     <description>
         Emergency Dialer
     </description>
